@@ -4,7 +4,7 @@ import org.springframework.boot.autoconfigure.SpringBootApplication;
 import org.springframework.cache.annotation.EnableCaching;
 
 @SpringBootApplication
-@EnableCaching                  //注解代表使用redis缓存
+@EnableCaching //注解代表使用redis缓存
 public class SpringBootApplicationRunner {
 
     public static void main(String[] args) {
