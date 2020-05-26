@@ -14,7 +14,7 @@ DeerResume
 
 ​		下载/克隆项目后，使用本地的开发工具打开工程，运行主程序，启动项目后，在浏览器输入   localhost:8080/yourname/index.html即可开始编写简历，
         切记切记，访问地址是：http://localhost:8080/yourname/index.html#/resume
-        而不是正常简单的http://localhost:8080/index.html
+        而不是正常简单的http://localhost:8080/index.html 
 
 ### FAQ
 
